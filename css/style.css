@@ -181,8 +181,11 @@ a:focus {
 
 /* slider section */
 
-#bem-vindo{
-  font-family: 'Courier New', Courier, monospace;
+#titulo-carrosel{
+  font-family: jost;
+  font-weight: 50px;
+  font-style: normal;
+
 }
 .slider_section {
   padding-top: 8%;
