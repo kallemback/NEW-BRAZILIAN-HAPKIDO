@@ -180,6 +180,10 @@ a:focus {
 /*end header section*/
 
 /* slider section */
+
+#bem-vindo{
+  font-family: 'Courier New', Courier, monospace;
+}
 .slider_section {
   padding-top: 8%;
 }
