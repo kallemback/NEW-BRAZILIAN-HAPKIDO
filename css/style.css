@@ -356,7 +356,8 @@ a:focus {
 }
 
 .client_img-box {
-  width: 350px;
+  width: 200px;
+  height: 400px;
 }
 
 .client_img-box img {
