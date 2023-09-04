@@ -14,6 +14,7 @@ body {
 
 .layout_padding2-top {
   padding-top: 45px;
+
 }
 
 
@@ -187,6 +188,10 @@ a:focus {
   font-style: normal;
 
 }
+#texto-isabrasil{
+  text-align: justify;
+  font-style: normal;
+}
 .slider_section {
   padding-top: 8%;
 }
@@ -316,6 +321,7 @@ a:focus {
   background-color: #fc5d35;
 }
 
+
 /* end service section */
 
 
@@ -414,8 +420,11 @@ a:focus {
   background-repeat: no-repeat;
   background-size: 215px;
   background-position: right center;
+  text-align: center;
 }
-
+.email{
+  font-family: Inconsolata;
+}
 .contact_section input {
   border: none;
   outline: none;
