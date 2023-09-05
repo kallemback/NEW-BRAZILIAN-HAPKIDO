@@ -198,7 +198,10 @@ a:focus {
   color: red;
   font-family: roboto;
 }
+.texto-destaques{
+  text-align: justify;
 
+}
 .slider_section {
   padding-top: 8%;
 }
