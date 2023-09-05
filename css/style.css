@@ -192,6 +192,12 @@ a:focus {
   text-align: justify;
   font-style: normal;
 }
+.proximos-eventos{
+  text-align: center;
+  font-size: 30px;
+  color: red;
+  font-family: roboto;
+}
 .slider_section {
   padding-top: 8%;
 }
