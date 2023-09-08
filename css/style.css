@@ -434,6 +434,7 @@ a:focus {
 }
 .email{
   font-family: Inconsolata;
+  font-size: 30px;
 }
 .contact_section input {
   border: none;
