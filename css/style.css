@@ -334,7 +334,16 @@ a:focus {
 
 /* end service section */
 
+#cartaz{
+  width: 700px;
+  text-align: center;
+  height: auto;
+  
+}
 
+hr{
+  text-align: center;
+}
 
 
 
