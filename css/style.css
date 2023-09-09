@@ -440,6 +440,11 @@ a:focus {
   font-size: 25px;
   -ms-flex-direction: row;
 }
+.paragrafo{
+  text-indent: 100px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 100%;
+}
 .contact_section input {
   border: none;
   outline: none;
