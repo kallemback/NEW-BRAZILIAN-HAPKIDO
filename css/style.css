@@ -442,8 +442,13 @@ a:focus {
 }
 .paragrafo{
   text-indent: 100px;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: sans-serif;
   font-size: 100%;
+}
+.titulo-paragrafo{
+  text-align: center;
+  font-size: 30px;
+  text-decoration: underline;
 }
 .contact_section input {
   border: none;
