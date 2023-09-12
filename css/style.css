@@ -200,6 +200,7 @@ a:focus {
 }
 .texto-destaques{
   text-align: justify;
+  color: #070707;
 
 }
 .slider_section {
@@ -295,7 +296,7 @@ a:focus {
 /* service section */
 .service_section .card .card-img-top {
   width: 200px;
-  margin: 55px auto 5px auto;
+  margin: 30px auto 5px auto;
 }
 
 .service_section .card {
