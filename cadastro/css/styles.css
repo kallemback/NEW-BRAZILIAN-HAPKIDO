@@ -20,8 +20,8 @@ a {
 
 body {
   padding-top: 5vh;
-  background-image: url('../img/bg-register-page.jpg');
-  background-size: cover;
+  background-image: url('../img/brazilian_hapkido_logo.png');
+  background: none;
   background-position-y: -150px;
 }
 
