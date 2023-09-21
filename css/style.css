@@ -201,6 +201,7 @@ a:focus {
 .texto-destaques{
   text-align: justify;
   color: #070707;
+  text-decoration: none;
 
 }
 .slider_section {
