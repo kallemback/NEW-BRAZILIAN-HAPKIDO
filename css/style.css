@@ -30,16 +30,23 @@ body {
   padding-bottom: 75px;
 }
 
-.falecimento{
+.falecimento {
   margin: center;
   text-align: center;
 
 
 }
-.data_inscricao{
+
+.data_inscricao {
   font-size: 1.5em;
   color: red;
   font-weight: 700;
+}
+
+.campeoes {
+  align-items: center;
+  height: auto;
+  width: 600px;
 }
 
 
@@ -137,6 +144,7 @@ a:focus {
   font-size: 24px;
   color: #fafcfd;
 }
+
 /*
 .custom_nav-container .nav_search-btn {
   background-image: url(../images/search-icon.png);
@@ -194,28 +202,32 @@ a:focus {
 
 /* slider section */
 
-#titulo-carrosel{
+#titulo-carrosel {
   font-family: jost;
   font-weight: 50px;
   font-style: normal;
 
 }
-#texto-isabrasil{
+
+#texto-isabrasil {
   text-align: justify;
   font-style: normal;
 }
-.proximos-eventos{
+
+.proximos-eventos {
   text-align: center;
   font-size: 30px;
   color: red;
   font-family: roboto;
 }
-.texto-destaques{
+
+.texto-destaques {
   text-align: justify;
   color: #070707;
   text-decoration: none;
 
 }
+
 .slider_section {
   padding-top: 8%;
 }
@@ -348,40 +360,45 @@ a:focus {
 
 /* end service section */
 
-#cartaz{
+#cartaz {
   width: 700px;
   text-align: center;
   height: auto;
-  
-  
+
+
 }
 
-hr{
+hr {
   text-align: center;
 }
-.texto-vermelho{
+
+.texto-vermelho {
   color: red;
-  
+
 }
-.alef-image{
+
+.alef-image {
   width: 250px;
   height: 250px;
 }
-.pmsp-destaque{
+
+.pmsp-destaque {
   width: 250px;
   height: 250px;
 }
-.treina_pmsp{
-text-align: center;
-image-orientation: initial;
-image-resolution: 400px;
+
+.treina_pmsp {
+  text-align: center;
+  image-orientation: initial;
+  image-resolution: 400px;
 }
-.treina_pmsp_texto{
-text-align: justify;
-image-orientation: initial;
-image-resolution: 400px;
-margin-left: 100px;
-margin-right: 100px;
+
+.treina_pmsp_texto {
+  text-align: justify;
+  image-orientation: initial;
+  image-resolution: 400px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 
@@ -480,24 +497,29 @@ margin-right: 100px;
   background-position: right center;
   text-align: center;
 }
-.email{
+
+.email {
   font-family: Inconsolata;
 }
-.email-end{
+
+.email-end {
   font-family: inconsolata;
   font-size: 25px;
   -ms-flex-direction: row;
 }
-.paragrafo{
+
+.paragrafo {
   text-indent: 100px;
   font-family: sans-serif;
   font-size: 100%;
 }
-.titulo-paragrafo{
+
+.titulo-paragrafo {
   text-align: center;
   font-size: 30px;
   text-decoration: underline;
 }
+
 .contact_section input {
   border: none;
   outline: none;
